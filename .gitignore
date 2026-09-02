@@ -1,0 +1,14 @@
+node_modules/
+.turbo/
+coverage/
+*.log
+.env
+.env.local
+.DS_Store
+*.tsbuildinfo
+dist/
+
+!shared/types/dist/
+!shared/types/dist/**
+!shared/utils/dist/
+!shared/utils/dist/**
