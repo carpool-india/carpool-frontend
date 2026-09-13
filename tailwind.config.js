@@ -9,20 +9,20 @@ export default {
       },
       colors: {
         brand: {
-          DEFAULT: "#0F766E",
-          light: "#CCFBF1",
-          dark: "#042F2E",
+          DEFAULT: "#285A40",
+          light: "#E5F1CE",
+          dark: "#153E32",
         },
         ink: {
-          DEFAULT: "#0B211F",
-          soft: "#4A6864",
-          faint: "#7C9994",
+          DEFAULT: "#183D32",
+          soft: "#586F5C",
+          faint: "#6B806C",
         },
         paper: {
-          DEFAULT: "#F5FAF9",
+          DEFAULT: "#F7F8F2",
           card: "#FFFFFF",
         },
-        line: "#DCEAE7",
+        line: "#DFE5D9",
         accent: {
           DEFAULT: "#F0A93C",
           dark: "#B5741A",
@@ -31,6 +31,7 @@ export default {
       boxShadow: {
         card: "0 1px 2px rgba(11,33,31,0.04), 0 12px 32px -16px rgba(11,33,31,0.18)",
         floating: "0 20px 60px -20px rgba(11,33,31,0.35)",
+        glow: "0 0 0 4px rgba(15,118,110,0.12), 0 18px 40px -18px rgba(15,118,110,0.45)",
       },
       backgroundImage: {
         mesh:
