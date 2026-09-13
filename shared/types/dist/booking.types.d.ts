@@ -18,6 +18,7 @@ export interface Booking {
         originName: string;
         destinationName: string;
         departureTime: string;
+        driverId: string;
     } | null;
 }
 export interface CreateBookingInput {
